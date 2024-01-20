@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shauna845
+- 👀 I’m interested in developing my coding skills.
+- 🌱 I’m currently learning Python and Typescript.
+- 📫 How to reach me: shauna10@hotmail.co.uk
+- 😄 Pronouns: she/her
